@@ -1,0 +1,21 @@
+.add-user-button{
+    display: flex;
+    justify-content: space-evenly;
+    
+    button{
+        border: none;
+        padding: 8px;
+
+        &:hover{
+            background-color: rgba(0,0,0, 0.40);
+            cursor: pointer;
+        }
+    }
+}
+
+.pt-8{
+padding-top: 8px;
+}
+
+
+
